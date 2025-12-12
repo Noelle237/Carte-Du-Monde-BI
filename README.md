@@ -1,4 +1,4 @@
-# Atelier Power BI – Rapport Géopolitique et Météorologique (Version Complète)
+# Projetg Power BI – Rapport Géopolitique et Météorologique avec une carte du monde
 
 Ce document constitue la version détaillée et enrichie du projet présenté sur LinkedIn. Il inclut toutes les étapes de préparation, transformation, modélisation, visualisation et création des mesures dans Power BI, ainsi que les bonnes pratiques et la compatibilité avec les nouvelles contraintes de l’API RestCountries.
 
@@ -8,7 +8,7 @@ Ce document constitue la version détaillée et enrichie du projet présenté su
 
 ## 1) Importer l’API RestCountries
 
-### ⚠️ IMPORTANT — Changement dans l’API (2024–2025)
+###  IMPORTANT — Changement dans l’API (2024–2025)
 
 L’API *RestCountries* a évolué :
 
